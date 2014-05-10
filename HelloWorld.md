@@ -1,5 +1,0 @@
-datasciencecoursera
-===================
-
-Data Science course
-
